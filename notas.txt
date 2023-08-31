@@ -1,0 +1,8 @@
+1. Crear un formulario donde se te permita ingresar nombre, apellido y grupo (265 en este caso) y tu número de sala. 
+
+2. Utilizando el método POST que vimos anteriormente, envía tus datitos al siguiente endpoint
+
+https://crudcrud.com/api/adc54d7744e946cd8ffc1851accabb6d/grupo265
+Recuerda que si tienes dudas puedes referirte a la siguiente página.
+
+3. Saca una captura del envío exitoso para subirla en la sección correspondiente.
